@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **joshk326/joshk326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,14 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=joshk326&count_private=true&title_color=ff5252&icon_color=ff5252&text_color=ffffff&border_color=ff5252&bg_color=151515&show_icons=true"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=joshk326&count_private=true&title_color=ff5252&icon_color=ff5252&text_color=151515&border_color=ff5252&bg_color=ffffff&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=joshk326&count_private=true&title_color=ff5252&icon_color=ff5252&text_color=151515&border_color=ff5252&bg_color=ffffff&show_icons=true" />
-</picture>
+
+<a href="https://github-readme-stats.vercel.app/api?username=joshk326&count_private=true&title_color=ff5252&icon_color=ff5252&text_color=ffffff&border_color=ff5252&bg_color=151515&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joshk326&count_private=true&title_color=ff5252&icon_color=ff5252&text_color=ffffff&border_color=ff5252&bg_color=151515&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=joshk326&layout=compact&title_color=ff5252&icon_color=ff5252&text_color=ffffff&border_color=ff5252&bg_color=151515">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshk326&layout=compact&title_color=ff5252&icon_color=ff5252&text_color=ffffff&border_color=ff5252&bg_color=151515" />
+</a>
